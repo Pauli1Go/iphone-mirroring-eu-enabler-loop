@@ -1,4 +1,4 @@
-# Plist Checker Quick Setup
+# Iphone Mirriring Loop
 
 1. **Save the Script**
    - Place the Python script where you want (e.g. `/usr/local/bin/check_and_update_plist.py`).
