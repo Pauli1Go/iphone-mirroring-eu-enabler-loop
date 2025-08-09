@@ -1,4 +1,6 @@
-# IPhone Mirroring Loop
+# IPhone Mirroring EU Enabler Loop
+Enables iPhone mirroring in the EU
+
 1. **Save the Script**
     - Place the Python script where you want (e.g. `/usr/local/bin/update_plist.py`).
 
@@ -11,6 +13,3 @@
 
 4. **Load at Boot**
     - Run `sudo launchctl load /Library/LaunchDaemons/plistchecker.plist` to enable autostart as root.
-
-**Done!**  
-Your script now checks/updates the plist automatically in the background with the required permissions.
